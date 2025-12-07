@@ -23,7 +23,7 @@ Interested in internships in:
 
 ---
 
-# Featured Projects
+# **Featured Projects**
 
 ## High-Voltage Battery Management System (Southampton University Formula Student Team)
 
