@@ -24,7 +24,7 @@ Interested in internships in:
 
 # Featured Projects
 
-## High-Voltage Battery Management System (Southampton University Formula Student Team)
+## High-Voltage Battery Management System - Southampton University Formula Student Team
 
 - Carried out research and development for the car’s High Voltage Battery Management System, including voltage, current and temperature measurement circuits, algorithms for ensuring safety and charging and discharging of the battery.
 - Worked with the BQ79616 Development Board.
@@ -32,7 +32,7 @@ Interested in internships in:
 
 ---
 
-## Dashboard Development (Southampton University Formula Student Team)
+## Dashboard Development - Southampton University Formula Student Team
 
 - Integrating an LCD screen into the steering wheel of the car.
 - Designed the schematic for the buck/boost converter.
