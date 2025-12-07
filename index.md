@@ -56,6 +56,9 @@ Interested in internships in:
 - Designed an ASM chart and state-transition table, Karnaugh maps and a circuit design
 - Created the circuit with the traffic light (provided) and the traffic light was fully functional, working as required
 
+
+---
+
 ## Autonomous Rover (Year 2 Project)
 
 - Software lead for autonomous rover project, working on LiDAR-based SLAM, motor control and a Bluetooth-based app for debugging.
