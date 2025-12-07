@@ -78,18 +78,15 @@ Interested in internships in:
 • MATLAB
 • STM Cube IDE
 
+
+---
+
 # Programming Languages
 • C
 • C++
 • System Verilog
 • Python
-
-# Other Work
-• Circuit simulation using **Multisim**  
-• PCB logo + custom design elements  
-• Bifurcation diagrams & Feigenbaum simulations  
-• C programming and embedded systems coursework  
-• MATLAB modelling and control experiments  
+ 
 
 ---
 
