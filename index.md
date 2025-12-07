@@ -2,14 +2,14 @@
 title: "Henoc — Engineering Portfolio"
 ---
 
-# **Hi, I’m Henoc**
+# Hi, I’m Henoc
 
 I’m an MEng Electrical and Electronic Engineering student at the University of Southampton.
 This portfolio showcases the engineering projects I’ve worked on so far.
 
 ---
 
-# **About Me**
+# About Me
 
 Interested in internships in:  
 - Embedded systems
@@ -22,7 +22,7 @@ Interested in internships in:
 
 ---
 
-# **Featured Projects**
+# Featured Projects
 
 ## High-Voltage Battery Management System (Southampton University Formula Student Team)
 
@@ -116,7 +116,7 @@ Interested in internships in:
 
 ---
 
-# **Tools and Simulation**
+# Tools and Simulation
 
 - Microsoft Office Suite  
 - KiCad  
@@ -130,7 +130,7 @@ Interested in internships in:
 
 ---
 
-# **Programming Languages**
+# Programming Languages
 
 - C  
 - C++  
