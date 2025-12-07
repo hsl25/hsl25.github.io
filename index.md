@@ -14,7 +14,6 @@ This portfolio showcases the engineering projects I’ve worked on so far.
 Interested in internships in:  
 - Embedded systems
 - Power systems
-- PCB design 
 - Control Systems
 - Robotics and Automation
 
