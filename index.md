@@ -126,7 +126,7 @@ Interested in internships in:
 - Arduino  
 - Raspberry Pi  
 - MATLAB  
-- STM32CubeIDE
+- STM32Cube IDE
 
 ---
 
