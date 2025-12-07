@@ -58,6 +58,26 @@ Interested in internships in:
 
 ---
 
+## Sudoku
+
+- Developed a command line based Sudoku game in C++
+- Added various levels with increasing difficulty
+- Allowed for the user to choose and fill in a given square, updating the board each time
+- Implemented a solver algorithm to automatically solve any given board
+
+
+---
+
+## Engineering Toolkit
+
+- Developed a robust command line application in C++ which integrates a circuit simulator, Fourier series graph plotter and a logic gate array
+- The skeleton code for the circuit simulator was provided 
+- Fourier Series graph plotter: the user chooses a waveform to plot out of sine, square, triangle, sawtooth and custom waveform. Fourier Series coefficients, amplitudes, frequencies and phase shifts are also selected by the user where applicable. Then the corresponding graph is plotted in the command line
+- logic gate array: I created files, each with different logic functions of increasing complexity. The user chooses from a range of files before choosing values (0 or 1) for each symbol. The logic gate array determines the output (TRUE or FALSE) for any given number of symbols. I designed the gate array to be scalable so that it could calculate the output for logic functions with n different symbols.
+
+
+--- 
+
 ## PWM, ADC and PID on a Microcontroller
 
 - Built a low-pass filter circuit.
@@ -72,6 +92,17 @@ Interested in internships in:
 - Designed a GUI in Python using Tkinter to display the voltage measured in the LPF circuit.
 - Implemented a real-time waveform with the user able to tune PID constants and set a desired set-point voltage in the GUI.
 - Integrated this Python GUI with previous C code to allow PID functionality to be visible in the waveform.
+
+---
+
+## Other Arduino mini-projects
+
+- DC motor control with adjustable speed via button input, using the L293D Motor Driver 
+- DC motor control with adjustable speed via joystick, using the L293D Motor Driver
+- Servo motor control with joystick
+- Integration of LCD display with DHT11 Temperature and Humidity sensor
+- Calculator for operations in binary, decimal and hexadecimal
+
 
 ---
 
