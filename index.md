@@ -116,23 +116,8 @@ Interested in internships in:
 
 ---
 
-# Tools and Simulation
-
-- Microsoft Office Suite  
-- KiCad  
-- Multisim  
-- Quartus Prime  
-- LTSpice  
-- Arduino  
-- Raspberry Pi  
-- MATLAB  
-- STM32Cube IDE
+# Tools and Simulation: Microsoft Office Suite, KiCad, Multisim, Quartus Prime, LTSpice, Arduino, Raspberry Pi, MATLAB, STM32Cube IDE
 
 ---
 
-# Programming Languages
-
-- C  
-- C++  
-- SystemVerilog  
-- Python
+# Programming Languages, C, C++, SystemVerilog, Python
