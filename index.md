@@ -4,24 +4,26 @@ title: "Henoc — Engineering Portfolio"
 
 # Hi, I’m Henoc
 
-I’m an MEng Electrical and Electronic Engineering student at the University of Southampton, with interests in embedded systems, control, high-voltage electronics, and motorsport engineering.  
+I’m an MEng Electrical and Electronic Engineering student at the University of Southampton.
 This portfolio showcases the engineering projects I’ve worked on so far.
 
 ---
 
 # About Me
 
-I’m passionate about electronics, motorsport, and building high-reliability embedded hardware.  
-
 Interested in internships in:  
-**Embedded systems • Automotive electronics • Control • Aerospace**
+- Embedded systems
+- Power systems
+- PCB design 
+- Control Systems
+- Robotics and Automation
 
 **Contact:** *henocl205@gmail.com*  
 **GitHub:** https://github.com/hsl25
 
 ---
 
-# 🛠 Featured Projects
+# Featured Projects
 
 ## High-Voltage Battery Management System (Southampton University Formula Student Team)
 
