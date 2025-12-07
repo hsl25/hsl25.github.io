@@ -26,7 +26,7 @@ Interested in internships in:
 ## High-Voltage Battery Management System (Southampton University Formula Student Team)
 
 - Carried out research and development for the car’s High Voltage Battery Management System, including voltage, current and temperature measurement circuits, algorithms for ensuring safety and charging and discharging of the battery.
-- Worked with the **BQ79616 Development Board**.
+- Worked with the BQ79616 Development Board.
 - Specialised in communication protocols between the battery, management system and sensor cells, including CAN interfacing.
 
 ---
