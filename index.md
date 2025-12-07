@@ -105,7 +105,7 @@ Interested in internships in:
 
 ---
 
-## Other Arduino mini-projects
+## Arduino mini-projects
 
 - DC motor control with adjustable speed via button input, using the L293D Motor Driver. 
 - DC motor control with adjustable speed via joystick, using the L293D Motor Driver.
@@ -115,6 +115,8 @@ Interested in internships in:
 
 
 ---
+
+## Other
 
 - Tools and Simulation: Microsoft Office Suite, KiCad, Multisim, Quartus Prime, LTSpice, Arduino, Raspberry Pi, MATLAB, STM32Cube IDE.
 - Programming Languages, C, C++, SystemVerilog, Python.
