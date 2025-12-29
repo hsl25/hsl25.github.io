@@ -22,6 +22,13 @@ Interested in internships in:
 
 ---
 
+## Other
+
+- Tools and Simulation: Microsoft Office Suite, KiCad, Multisim, Quartus Prime, LTSpice, Arduino, Raspberry Pi, MATLAB, STM32Cube IDE.
+- Programming Languages, C, C++, SystemVerilog, Python.
+
+---
+
 # Featured Projects
 
 ## High-Voltage Battery Management System - Southampton University Formula Student Team
@@ -116,7 +123,3 @@ Interested in internships in:
 
 ---
 
-## Other
-
-- Tools and Simulation: Microsoft Office Suite, KiCad, Multisim, Quartus Prime, LTSpice, Arduino, Raspberry Pi, MATLAB, STM32Cube IDE.
-- Programming Languages, C, C++, SystemVerilog, Python.
