@@ -16,6 +16,7 @@ Interested in internships in:
 - Power systems
 - Control Systems
 - Robotics and Automation
+- Analogue/Digital Circuit Design
 
 **Contact:** *henocl205@gmail.com*  
 **GitHub:** https://github.com/hsl25
@@ -25,7 +26,8 @@ Interested in internships in:
 ## Skills
 
 - Tools and Simulation: Microsoft Office Suite, KiCad, Multisim, Quartus Prime, LTSpice, Arduino, Raspberry Pi, MATLAB, STM32Cube IDE.
-- Programming Languages, C, C++, SystemVerilog, Python.
+- Programming Languages: C, C++, SystemVerilog, Python.
+- Testing and measurement: Oscilloscopes, multimeters, spectrum analysers
 
 ---
 
@@ -43,7 +45,7 @@ Interested in internships in:
 
 - Integrating an LCD screen into the steering wheel of the car.
 - Designed the schematic for the buck/boost converter.
-- Finished schematic design for touch-screen module, STM microcontroller and RAM module.
+- Finished schematic design for touch-screen module, STM32F746 microcontroller and RAM module.
 - Practised key routing techniques such as length-matching for RAM connections.
 
 ---
