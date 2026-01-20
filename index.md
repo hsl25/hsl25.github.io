@@ -23,7 +23,7 @@ Interested in internships in:
 
 ---
 
-## Skills
+# Skills
 
 - Tools and Simulation: Microsoft Office Suite, KiCad, Multisim, Quartus Prime, LTSpice, Arduino, Raspberry Pi, MATLAB, STM32Cube IDE.
 - Programming Languages: C, C++, SystemVerilog, Python.
