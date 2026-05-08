@@ -52,18 +52,6 @@ Interested in internships in:
 
 ---
 
-## Robotic Arm Project
-
-- Programmed and controlled servo motors using potentiometer input, allowing for 3 degrees of freedom.
-- Developed a servo-operated mechanical claw with a gear mechanism, capable of 180 degrees of motion and the ability to pick up loads of various shapes and sizes.
-- Iteratively designed the claw mechanism, creating five prototypes to optimise performance and efficiency.
-- Integrated user control via operational modes — a "rest" and "active" state via button input.
-- Programmed with an Arduino Uno R3.
-
-**Repository:** [Robotic Arm Project](https://github.com/hsl25/robotic-arm)
-
----
-
 ## Autonomous Rover (Year 2 Project)
 
 - Developed an autonomous rover capable of navigating through obstacles, as software lead and electronics and mechanical team member.
@@ -74,7 +62,20 @@ Interested in internships in:
 - Implemented a reactive navigation algorithm using LiDAR and IMU sensor fusion, enabling the rover to autonomously navigate past obstacles.
 
 **Indoor Trials Repository:** [Autonomous Rover](https://github.com/hsl25/indoor_trials) 
+
 **Outdoor Trials Repository:** [Autonomous Rover](https://github.com/hsl25/outdoor_trials) 
+
+---
+
+## Robotic Arm Project
+
+- Programmed and controlled servo motors using potentiometer input, allowing for 3 degrees of freedom.
+- Developed a servo-operated mechanical claw with a gear mechanism, capable of 180 degrees of motion and the ability to pick up loads of various shapes and sizes.
+- Iteratively designed the claw mechanism, creating five prototypes to optimise performance and efficiency.
+- Integrated user control via operational modes — a "rest" and "active" state via button input.
+- Programmed with an Arduino Uno R3.
+
+**Repository:** [Robotic Arm Project](https://github.com/hsl25/robotic-arm)
 
 ---
 
