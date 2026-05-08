@@ -18,7 +18,7 @@ Interested in internships in:
 - Robotics and Automation
 - Analogue/Digital Circuit Design
 
-**Contact:** *henocl205@gmail.com*  
+**Contact:** henocl205@gmail.com  
 **GitHub:** https://github.com/hsl25
 
 ---
@@ -52,11 +52,15 @@ Interested in internships in:
 
 ## Robotic Arm Project
 
+![Robotic Arm](assets/images/robotic_arm.jpg)
+
 - Programmed and controlled servo motors using potentiometer input, allowing for 3 degrees of freedom.
 - Developed a servo-operated mechanical claw with a gear mechanism, capable of 180 degrees of motion and the ability to pick up loads of various shapes and sizes.
 - Iteratively designed the claw mechanism, creating five prototypes to optimise performance and efficiency.
 - Integrated user control via operational modes — a "rest" and "active" state via button input.
 - Programmed with an Arduino Uno R3.
+
+**Repository:** [Robotic Arm Project](https://github.com/hsl25/robotic-arm)
 
 ---
 
@@ -71,46 +75,64 @@ Interested in internships in:
 
 ## Autonomous Rover (Year 2 Project)
 
+![Autonomous Rover](assets/images/rover.jpg)
+
 - Software lead for autonomous rover project, working on LiDAR-based SLAM, motor control and a Bluetooth-based app for debugging.
 - Working on Raspberry Pi Pico W and programming in C++.
 - Learning SLAM and autonomous navigation algorithms.
 
+**Repository:** *(In progress)*
+
 ---
 
 ## Sudoku
+
+![Sudoku Game](assets/images/sudoku.jpg)
 
 - Developed a command line based Sudoku game in C++.
 - Added various levels with increasing difficulty.
 - Allowed for the user to choose and fill in a given square, updating the board each time.
 - Implemented a solver algorithm to automatically solve any given board.
 
+**Repository:** [Sudoku Game](https://github.com/hsl25/sudoku)
 
 ---
 
 ## Engineering Toolkit
+
+![Engineering Toolkit](assets/images/toolkit.jpg)
 
 - Developed a robust command line application in C++ which integrates a circuit simulator, Fourier series graph plotter and a logic gate array.
 - The skeleton code for the circuit simulator was provided.
 - Fourier Series graph plotter: the user chooses a waveform to plot out of sine, square, triangle, sawtooth and custom waveform. Fourier Series coefficients, amplitudes, frequencies and phase shifts are also selected by the user where applicable. Then the corresponding graph is plotted in the command line.
 - logic gate array: I created files, each with different logic functions of increasing complexity. The user chooses from a range of files before choosing values (0 or 1) for each symbol. The logic gate array determines the output (TRUE or FALSE) for any given number of symbols. I designed the gate array to be scalable so that it could calculate the output for logic functions with n different symbols.
 
+**Repository:** [Engineering Toolkit](https://github.com/hsl25/engineering-toolkit)
 
 --- 
 
 ## PWM, ADC and PID on a Microcontroller
+
+![PID Circuit](assets/images/pid.jpg)
 
 - Built a low-pass filter circuit.
 - Used a 10-bit timer on the ATmega164PA microcontroller (programmed in C) to vary PWM duty cycle and therefore the potential difference across the capacitor.
 - Used serial communication via PuTTY to take the desired duty cycle from the user.
 - Implemented PID control and tuned constants to allow the desired voltage to be maintained when external noise was applied.
 
+**Repository:** [PWM ADC PID](https://github.com/hsl25/pwm-adc-pid)
+
 ---
 
 ## Wave Generator GUI
 
+![Wave Generator GUI](assets/images/gui.jpg)
+
 - Designed a GUI in Python using Tkinter to display the voltage measured in the LPF circuit.
 - Implemented a real-time waveform with the user able to tune PID constants and set a desired set-point voltage in the GUI.
 - Integrated this Python GUI with previous C code to allow PID functionality to be visible in the waveform.
+
+**Repository:** [Wave Generator GUI](https://github.com/hsl25/wave-generator-gui)
 
 ---
 
