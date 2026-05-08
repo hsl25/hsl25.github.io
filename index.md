@@ -64,15 +64,6 @@ Interested in internships in:
 
 ---
 
-## Traffic Light Controller
-
-- Used the following ICs: 74HC08 quad 2-input AND gate, 74HC32 quad 2-input OR gate, 74HC74 dual D-type flip-flop.
-- Designed an ASM chart and state-transition table, Karnaugh maps and a circuit design.
-- Created the circuit with the traffic light (provided) and the traffic light was fully functional, working as required.
-
-
----
-
 ## Autonomous Rover (Year 2 Project)
 
 ![Autonomous Rover](assets/images/rover.jpg)
@@ -81,7 +72,7 @@ Interested in internships in:
 - Working on Raspberry Pi Pico W and programming in C++.
 - Learning SLAM and autonomous navigation algorithms.
 
-**Repository:** *(In progress)*
+**Repository:** [Autonomous Rover](https://https://github.com/hsl25/outdoor_trials) 
 
 ---
 
@@ -94,7 +85,7 @@ Interested in internships in:
 - Allowed for the user to choose and fill in a given square, updating the board each time.
 - Implemented a solver algorithm to automatically solve any given board.
 
-**Repository:** [Sudoku Game](https://github.com/hsl25/sudoku)
+**Repository:** [Sudoku Game](https://github.com/hsl25/Sudoku)
 
 ---
 
@@ -107,7 +98,7 @@ Interested in internships in:
 - Fourier Series graph plotter: the user chooses a waveform to plot out of sine, square, triangle, sawtooth and custom waveform. Fourier Series coefficients, amplitudes, frequencies and phase shifts are also selected by the user where applicable. Then the corresponding graph is plotted in the command line.
 - logic gate array: I created files, each with different logic functions of increasing complexity. The user chooses from a range of files before choosing values (0 or 1) for each symbol. The logic gate array determines the output (TRUE or FALSE) for any given number of symbols. I designed the gate array to be scalable so that it could calculate the output for logic functions with n different symbols.
 
-**Repository:** [Engineering Toolkit](https://github.com/hsl25/engineering-toolkit)
+**Repository:** [Engineering Toolkit](https://github.com/hsl25/Simulator)
 
 --- 
 
