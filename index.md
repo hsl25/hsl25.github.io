@@ -25,9 +25,11 @@ Interested in internships in:
 
 # Skills
 
-- Tools and Simulation: Microsoft Office Suite, KiCad, Multisim, Quartus Prime, LTSpice, Arduino, Raspberry Pi, MATLAB, STM32Cube IDE.
-- Programming Languages: C, C++, SystemVerilog, Python.
-- Testing and measurement: Oscilloscopes, multimeters, spectrum analysers
+- Programming and Software: C, C++, SystemVerilog, Python, MATLAB.
+- Embedded Systems: Arduino, Raspberry Pi.
+- Electronics and PCB Design: KiCad, Multisim, LTspice.
+- Hardware and Engineering Tools: Oscilloscope, multimeter, bench power supply, signal generator, soldering iron.
+- Communication Protocols: I2C, UART, USB. 
 
 ---
 
@@ -64,9 +66,12 @@ Interested in internships in:
 
 ## Autonomous Rover (Year 2 Project)
 
-- Software lead for autonomous rover project, working on LiDAR-based SLAM, motor control and a Bluetooth-based app for debugging.
-- Working on Raspberry Pi Pico W and programming in C++.
-- Learning SLAM and autonomous navigation algorithms.
+- Developed an autonomous rover capable of navigating through obstacles, as software lead and electronics and mechanical team member.
+- Carried out calculations for choosing optimal motor torque by generating motor curves for a selection of sample motors.
+- Programmed the Raspberry Pi Pico WH in C++, implementing PWM motor control for brushed DC motors and integrating motor drivers.
+- Organised circuitry by connecting battery, buck converter, over-current protection module, fuse circuitry, Pico WH and motor drivers.
+- Designed algorithms for efficient forwards and backwards movement, and skid steering.
+- Implemented a reactive navigation algorithm using LiDAR and IMU sensor fusion, enabling the rover to autonomously navigate past obstacles.
 
 **Indoor Trials Repository:** [Autonomous Rover](https://github.com/hsl25/indoor_trials) 
 **Outdoor Trials Repository:** [Autonomous Rover](https://github.com/hsl25/outdoor_trials) 
