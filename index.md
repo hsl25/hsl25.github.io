@@ -1,263 +1,126 @@
 ---
-title: "Henoc | Engineering Portfolio"
+title: "Henoc — Engineering Portfolio"
 ---
 
-# Henoc L.
-### MEng Electrical & Electronic Engineering — University of Southampton
+# Hi, I’m Henoc
 
-I am an Electrical and Electronic Engineering student with strong interests in embedded systems, power electronics, control, and robotics.  
-This portfolio highlights the technical projects I have developed through university work, Formula Student, and personal engineering builds.
-
-📧 **Email:** henocl205@gmail.com  
-💻 **GitHub:** [github.com/hsl25](https://github.com/hsl25)
+I’m an MEng Electrical and Electronic Engineering student at the University of Southampton.
+This portfolio showcases the engineering projects I’ve worked on so far.
 
 ---
 
-# Technical Skills
+# About Me
 
-### Software & Tools
-- KiCad, Multisim, LTSpice, Quartus Prime  
-- MATLAB, STM32CubeIDE, Arduino IDE, Raspberry Pi  
-- Microsoft Office (Excel, PowerPoint, Word)
+Interested in internships in:  
+- Embedded systems
+- Power systems
+- Control Systems
+- Robotics and Automation
+- Analogue/Digital Circuit Design
 
-### Programming
-- **C / C++**
-- **Python**
-- **SystemVerilog**
-- Embedded firmware development and debugging
-
-### Electronics & Lab
-- Oscilloscopes, multimeters, signal generators  
-- Circuit prototyping, debugging, PCB schematic design  
-- Serial communication + CAN interfacing
+**Contact:** *henocl205@gmail.com*  
+**GitHub:** https://github.com/hsl25
 
 ---
 
-# Featured Engineering Projects
+# Skills
+
+- Tools and Simulation: Microsoft Office Suite, KiCad, Multisim, Quartus Prime, LTSpice, Arduino, Raspberry Pi, MATLAB, STM32Cube IDE.
+- Programming Languages: C, C++, SystemVerilog, Python.
+- Testing and measurement: Oscilloscopes, multimeters, spectrum analysers
 
 ---
 
-## High Voltage Battery Management System (BMS)
-**Southampton University Formula Student Team**
+# Featured Projects
 
-![High Voltage BMS](assets/images/bms.jpg)
+## High-Voltage Battery Management System - Southampton University Formula Student Team
 
-### Overview
-Worked on research and development of a High Voltage Battery Management System, focusing on measurement circuitry, safety algorithms, and communication protocols required for Formula Student compliance and real-world reliability.
-
-### Key Contributions
-- Designed concepts for voltage, current, and temperature sensing circuits.
-- Investigated safety requirements for charge/discharge operation.
-- Worked with **Texas Instruments BQ79616** development board.
-- Focused heavily on communication protocols and CAN-based interfacing between cell monitoring and system controller.
-
-### Skills Demonstrated
-**Battery safety • CAN communication • high-voltage systems • embedded monitoring**
-
-🔗 **Repository:** *(Private / Team project)*
+- Carried out research and development for the car’s High Voltage Battery Management System, including voltage, current and temperature measurement circuits, algorithms for ensuring safety and charging and discharging of the battery.
+- Worked with the BQ79616 Development Board.
+- Specialised in communication protocols between the battery, management system and sensor cells, including CAN interfacing.
 
 ---
 
-## Steering Wheel Dashboard Electronics
-**Southampton University Formula Student Team**
+## Dashboard Development - Southampton University Formula Student Team
 
-![Formula Student Dashboard](assets/images/dashboard.jpg)
-
-### Overview
-Developed electronics for an LCD steering wheel dashboard, supporting driver telemetry and control interface.
-
-### Key Contributions
-- Integrated an LCD display into steering wheel design.
-- Designed buck/boost converter schematic for stable power delivery.
-- Designed touch-screen module schematic including:
-  - STM32F746 microcontroller
-  - RAM module integration
-- Applied PCB routing practices including **RAM length matching**.
-
-### Skills Demonstrated
-**PCB schematic design • power conversion • STM32 hardware integration**
-
-🔗 **Repository:** *(Private / Team project)*
+- Integrating an LCD screen into the steering wheel of the car.
+- Designed the schematic for the buck/boost converter.
+- Finished schematic design for touch-screen module, STM32F746 microcontroller and RAM module.
+- Practised key routing techniques such as length-matching for RAM connections.
 
 ---
 
-## Robotic Arm (3-DOF + Claw Mechanism)
-**Arduino Embedded Control Project**
+## Robotic Arm Project
 
-![Robotic Arm](assets/images/robotic_arm.jpg)
-
-### Overview
-Designed and programmed a robotic arm with servo control and a mechanical claw mechanism, enabling manual control using potentiometer input.
-
-### Key Contributions
-- Implemented servo motor control for **3 degrees of freedom**.
-- Designed a claw with gear mechanism capable of 180° motion.
-- Iteratively prototyped the claw design (5 revisions) for performance improvements.
-- Implemented control modes ("active/rest") using button input.
-- Programmed using Arduino Uno (C/C++).
-
-### Skills Demonstrated
-**embedded control • prototyping • servo systems • iterative design**
-
-🔗 **GitHub Repository:** [Robotic Arm Project](https://github.com/hsl25/robotic-arm)
+- Programmed and controlled servo motors using potentiometer input, allowing for 3 degrees of freedom.
+- Developed a servo-operated mechanical claw with a gear mechanism, capable of 180 degrees of motion and the ability to pick up loads of various shapes and sizes.
+- Iteratively designed the claw mechanism, creating five prototypes to optimise performance and efficiency.
+- Integrated user control via operational modes — a "rest" and "active" state via button input.
+- Programmed with an Arduino Uno R3.
 
 ---
 
-## Traffic Light Controller (Digital Logic Hardware)
-**Sequential Logic Circuit Design**
+## Traffic Light Controller
 
-![Traffic Light Circuit](assets/images/traffic_light.jpg)
+- Used the following ICs: 74HC08 quad 2-input AND gate, 74HC32 quad 2-input OR gate, 74HC74 dual D-type flip-flop.
+- Designed an ASM chart and state-transition table, Karnaugh maps and a circuit design.
+- Created the circuit with the traffic light (provided) and the traffic light was fully functional, working as required.
 
-### Overview
-Built a hardware-based traffic light controller using fundamental logic ICs and sequential logic design methods.
-
-### Key Contributions
-- Designed a complete state machine using:
-  - ASM chart
-  - state transition table
-  - Karnaugh maps
-- Implemented the circuit using:
-  - 74HC08 AND gates
-  - 74HC32 OR gates
-  - 74HC74 D-type flip-flops
-- Tested the real circuit successfully on hardware.
-
-### Skills Demonstrated
-**digital logic design • state machines • Karnaugh optimisation**
-
-🔗 **GitHub Repository:** [Traffic Light Controller](https://github.com/hsl25/traffic-light-controller)
 
 ---
 
-## Autonomous Rover (Year 2 Team Project)
-**Software Lead — Navigation + Control**
+## Autonomous Rover (Year 2 Project)
 
-![Autonomous Rover](assets/images/rover.jpg)
-
-### Overview
-Leading software development for an autonomous rover system using LiDAR-based navigation and embedded motor control.
-
-### Key Contributions
-- Working on LiDAR-based SLAM research and implementation.
-- Developing motor control firmware and control logic.
-- Creating a Bluetooth debugging app to assist testing.
-- Programming with **Raspberry Pi Pico W (C++)**.
-
-### Skills Demonstrated
-**robotics • SLAM • embedded C++ • sensor integration**
-
-🔗 **Repository:** *(In progress)*
+- Software lead for autonomous rover project, working on LiDAR-based SLAM, motor control and a Bluetooth-based app for debugging.
+- Working on Raspberry Pi Pico W and programming in C++.
+- Learning SLAM and autonomous navigation algorithms.
 
 ---
 
-## Sudoku (C++ Game + Solver)
-**Command Line Application**
+## Sudoku
 
-![Sudoku](assets/images/sudoku.jpg)
+- Developed a command line based Sudoku game in C++.
+- Added various levels with increasing difficulty.
+- Allowed for the user to choose and fill in a given square, updating the board each time.
+- Implemented a solver algorithm to automatically solve any given board.
 
-### Overview
-Created a playable Sudoku game with difficulty selection and a built-in solver.
-
-### Key Contributions
-- Designed interactive terminal UI.
-- Added difficulty levels with progressively harder boards.
-- Implemented board validation and input logic.
-- Developed a solver algorithm to solve any given Sudoku.
-
-### Skills Demonstrated
-**C++ • recursion/backtracking • algorithms • CLI applications**
-
-🔗 **GitHub Repository:** [Sudoku Game](https://github.com/hsl25/sudoku)
 
 ---
 
-## Engineering Toolkit (C++ Multi-Tool Application)
-**Circuit Simulation + Fourier Analysis + Logic Gate Engine**
+## Engineering Toolkit
 
-![Engineering Toolkit](assets/images/toolkit.jpg)
+- Developed a robust command line application in C++ which integrates a circuit simulator, Fourier series graph plotter and a logic gate array.
+- The skeleton code for the circuit simulator was provided.
+- Fourier Series graph plotter: the user chooses a waveform to plot out of sine, square, triangle, sawtooth and custom waveform. Fourier Series coefficients, amplitudes, frequencies and phase shifts are also selected by the user where applicable. Then the corresponding graph is plotted in the command line.
+- logic gate array: I created files, each with different logic functions of increasing complexity. The user chooses from a range of files before choosing values (0 or 1) for each symbol. The logic gate array determines the output (TRUE or FALSE) for any given number of symbols. I designed the gate array to be scalable so that it could calculate the output for logic functions with n different symbols.
 
-### Overview
-Developed a modular engineering toolkit combining circuit simulation utilities, Fourier series waveform analysis, and scalable logic evaluation.
 
-### Key Contributions
-- Integrated a provided circuit simulator framework.
-- Built Fourier Series waveform generator supporting:
-  - sine, square, triangle, sawtooth, custom waveforms
-- Developed scalable logic engine to evaluate boolean functions for n inputs.
-- Implemented file-driven logic selection for complex expressions.
+--- 
 
-### Skills Demonstrated
-**software architecture • mathematical modelling • scalable design**
+## PWM, ADC and PID on a Microcontroller
 
-🔗 **GitHub Repository:** [Engineering Toolkit](https://github.com/hsl25/engineering-toolkit)
+- Built a low-pass filter circuit.
+- Used a 10-bit timer on the ATmega164PA microcontroller (programmed in C) to vary PWM duty cycle and therefore the potential difference across the capacitor.
+- Used serial communication via PuTTY to take the desired duty cycle from the user.
+- Implemented PID control and tuned constants to allow the desired voltage to be maintained when external noise was applied.
 
 ---
 
-## PWM + ADC + PID Control (ATmega164PA)
-**Embedded Control Systems Project**
+## Wave Generator GUI
 
-![PID Control](assets/images/pid.jpg)
-
-### Overview
-Designed a low-pass filter system controlled via PWM, with closed-loop PID control implemented on a microcontroller.
-
-### Key Contributions
-- Built low-pass filter circuit.
-- Used ATmega164PA timer for PWM generation.
-- Implemented serial interface through PuTTY for user-defined duty cycle.
-- Designed and tuned PID controller to reject external disturbances.
-
-### Skills Demonstrated
-**embedded C • PID control • timers/PWM • ADC sampling**
-
-🔗 **GitHub Repository:** [PWM ADC PID](https://github.com/hsl25/pwm-adc-pid)
+- Designed a GUI in Python using Tkinter to display the voltage measured in the LPF circuit.
+- Implemented a real-time waveform with the user able to tune PID constants and set a desired set-point voltage in the GUI.
+- Integrated this Python GUI with previous C code to allow PID functionality to be visible in the waveform.
 
 ---
 
-## Wave Generator GUI (Python + Embedded Integration)
-**Real-Time Control Visualisation**
+## Arduino mini-projects
 
-![Wave GUI](assets/images/gui.jpg)
+- DC motor control with adjustable speed via button input, using the L293D Motor Driver. 
+- DC motor control with adjustable speed via joystick, using the L293D Motor Driver.
+- Servo motor control with joystick.
+- Integration of LCD display with DHT11 Temperature and Humidity sensor.
+- Calculator for operations in binary, decimal and hexadecimal.
 
-### Overview
-Built a Python GUI to visualise real-time voltage response and allow tuning of PID constants dynamically.
-
-### Key Contributions
-- Designed Tkinter GUI interface.
-- Displayed real-time waveform response from LPF circuit.
-- Allowed user adjustment of PID constants and set-point voltage.
-- Integrated with embedded C firmware to demonstrate closed-loop behaviour.
-
-### Skills Demonstrated
-**Python GUI • serial interfacing • control systems**
-
-🔗 **GitHub Repository:** [Wave Generator GUI](https://github.com/hsl25/wave-generator-gui)
-
----
-
-## Arduino Mini Projects Collection
-
-![Arduino Mini Projects](assets/images/arduino.jpg)
-
-### Overview
-A collection of smaller Arduino projects demonstrating sensor integration and motor control.
-
-### Included Projects
-- DC motor speed control (button + joystick)
-- Servo joystick control
-- LCD + DHT11 sensor integration
-- Number base calculator (binary/decimal/hex)
-
-### Skills Demonstrated
-**embedded programming • motor drivers • sensors • rapid prototyping**
-
-🔗 **GitHub Repository:** [Arduino Mini Projects](https://github.com/hsl25/arduino-mini-projects)
-
----
-
-# Next Goals
-- Develop more STM32 projects with real-time peripherals (CAN, SPI, DMA).
-- Build a personal PCB design project (power converter or sensor interface).
-- Expand autonomous rover work with full SLAM mapping + path planning.
 
 ---
