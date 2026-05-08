@@ -52,8 +52,6 @@ Interested in internships in:
 
 ## Robotic Arm Project
 
-![Robotic Arm](assets/images/robotic_arm.jpg)
-
 - Programmed and controlled servo motors using potentiometer input, allowing for 3 degrees of freedom.
 - Developed a servo-operated mechanical claw with a gear mechanism, capable of 180 degrees of motion and the ability to pick up loads of various shapes and sizes.
 - Iteratively designed the claw mechanism, creating five prototypes to optimise performance and efficiency.
@@ -66,8 +64,6 @@ Interested in internships in:
 
 ## Autonomous Rover (Year 2 Project)
 
-![Autonomous Rover](assets/images/rover.jpg)
-
 - Software lead for autonomous rover project, working on LiDAR-based SLAM, motor control and a Bluetooth-based app for debugging.
 - Working on Raspberry Pi Pico W and programming in C++.
 - Learning SLAM and autonomous navigation algorithms.
@@ -77,8 +73,6 @@ Interested in internships in:
 ---
 
 ## Sudoku
-
-![Sudoku Game](assets/images/sudoku.jpg)
 
 - Developed a command line based Sudoku game in C++.
 - Added various levels with increasing difficulty.
@@ -91,8 +85,6 @@ Interested in internships in:
 
 ## Engineering Toolkit
 
-![Engineering Toolkit](assets/images/toolkit.jpg)
-
 - Developed a robust command line application in C++ which integrates a circuit simulator, Fourier series graph plotter and a logic gate array.
 - The skeleton code for the circuit simulator was provided.
 - Fourier Series graph plotter: the user chooses a waveform to plot out of sine, square, triangle, sawtooth and custom waveform. Fourier Series coefficients, amplitudes, frequencies and phase shifts are also selected by the user where applicable. Then the corresponding graph is plotted in the command line.
@@ -104,8 +96,6 @@ Interested in internships in:
 
 ## PWM, ADC and PID on a Microcontroller
 
-![PID Circuit](assets/images/pid.jpg)
-
 - Built a low-pass filter circuit.
 - Used a 10-bit timer on the ATmega164PA microcontroller (programmed in C) to vary PWM duty cycle and therefore the potential difference across the capacitor.
 - Used serial communication via PuTTY to take the desired duty cycle from the user.
@@ -116,8 +106,6 @@ Interested in internships in:
 ---
 
 ## Wave Generator GUI
-
-![Wave Generator GUI](assets/images/gui.jpg)
 
 - Designed a GUI in Python using Tkinter to display the voltage measured in the LPF circuit.
 - Implemented a real-time waveform with the user able to tune PID constants and set a desired set-point voltage in the GUI.
