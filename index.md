@@ -68,7 +68,7 @@ Interested in internships in:
 - Working on Raspberry Pi Pico W and programming in C++.
 - Learning SLAM and autonomous navigation algorithms.
 
-**Repository:** [Autonomous Rover](https://https://github.com/hsl25/outdoor_trials) 
+**Repository:** [Autonomous Rover](https://github.com/hsl25/outdoor_trials) 
 
 ---
 
