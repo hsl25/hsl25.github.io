@@ -18,8 +18,8 @@ Interested in internships in:
 - Robotics and Automation
 - Analogue/Digital Circuit Design
 
-**Contact:** henocl205@gmail.com  
-**GitHub:** https://github.com/hsl25
+**Contact:** ![Email]{[henocl205@gmail.com]}  
+**GitHub:** ![Github_link]{[https://github.com/hsl25]}
 
 ---
 
