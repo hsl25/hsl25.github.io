@@ -75,7 +75,7 @@ Interested in internships in:
 - Integrated user control via operational modes — a "rest" and "active" state via button input.
 - Programmed with an Arduino Uno R3.
 
-**Repository:** [Robotic Arm Project](https://github.com/hsl25/robotic-arm)
+**Repository:** [Robotic Arm Project](https://github.com/hsl25/robotic_arm)
 
 ---
 
