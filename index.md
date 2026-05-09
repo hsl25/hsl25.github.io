@@ -1,5 +1,5 @@
 ---
-title: "Henoc — Engineering Portfolio"
+title: "Henoc Lakshman Engineering Portfolio"
 ---
 
 # Hi, I’m Henoc
