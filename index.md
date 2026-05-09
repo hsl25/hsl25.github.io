@@ -61,9 +61,9 @@ Interested in internships in:
 - Designed algorithms for efficient forwards and backwards movement, and skid steering.
 - Implemented a reactive navigation algorithm using LiDAR and IMU sensor fusion, enabling the rover to autonomously navigate past obstacles.
 
-**Indoor Trials Repository:** [Autonomous Rover](https://github.com/hsl25/indoor_trials) 
+**Indoor Trials Repository:** [Autonomous Rover](https://github.com/hsl25/indoor_trials). 
 
-**Outdoor Trials Repository:** [Autonomous Rover](https://github.com/hsl25/outdoor_trials) 
+**Outdoor Trials Repository:** [Autonomous Rover](https://github.com/hsl25/outdoor_trials). 
 
 ---
 
