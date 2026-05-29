@@ -37,18 +37,18 @@ Interested in internships in:
 
 ## High-Voltage Battery Management System - Southampton University Formula Student Team
 
-- Carried out research and development for the car’s High Voltage Battery Management System, including voltage, current and temperature measurement circuits, algorithms for ensuring safety and charging and discharging of the battery.
+- Carried out research and development for the car’s High Voltage Battery Management System, including voltage, current and temperature sensing circuits for battery monitoring and protection.
 - Worked with the BQ79616 Development Board.
-- Specialised in communication protocols between the battery, management system and sensor cells, including CAN interfacing.
+- Investigated communication protocols between the battery, management system and sensor cells, including CAN interfacing.
 
 ---
 
 ## Dashboard Development - Southampton University Formula Student Team
 
-- Integrating an LCD screen into the steering wheel of the car.
+- Integrating an LCD screen into the steering wheel dashboard of the car.
 - Designed the schematic for the buck/boost converter.
 - Finished schematic design for touch-screen module, STM32F746 microcontroller and RAM module.
-- Practised key routing techniques such as length-matching for RAM connections.
+- Practised key routing techniques such as length-matching and thermal management.
 
 ---
 
@@ -66,6 +66,17 @@ Interested in internships in:
 **Outdoor Trials Repository:** [Autonomous Rover](https://github.com/hsl25/outdoor_trials). 
 
 ---
+
+## RFID Reader PCB
+
+- Supported PCB schematic capture and routing for 2-layer RFID PCB in KiCad.
+- Organised and routed components by following important design principles to produce a clean and professional PCB layout.
+- Soldered and assembled through-hole and surface-mount electronic components onto the PCB, developing practical electronics skills.
+
+**Repository:** [RFID Reader PCB]()
+
+--
+
 
 ## Robotic Arm Project
 
