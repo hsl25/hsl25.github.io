@@ -73,8 +73,6 @@ Interested in internships in:
 - Organised and routed components by following important design principles to produce a clean and professional PCB layout.
 - Soldered and assembled through-hole and surface-mount electronic components onto the PCB, developing practical electronics skills.
 
-**Repository:** [RFID Reader PCB]().
-
 --
 
 ## Robotic Arm Project
