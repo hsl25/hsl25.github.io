@@ -77,7 +77,6 @@ Interested in internships in:
 
 --
 
-
 ## Robotic Arm Project
 
 - Programmed and controlled servo motors using potentiometer input, allowing for 3 degrees of freedom.
