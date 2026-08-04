@@ -17,6 +17,7 @@ Interested in internships in:
 - Control Systems
 - Robotics and Automation
 - Analogue/Digital Circuit Design
+- PCB Design
 
 **Contact:** henocl205@gmail.com
 **GitHub:** [hsl25](https://github.com/hsl25)
