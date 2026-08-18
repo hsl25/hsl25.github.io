@@ -36,6 +36,16 @@ Interested in internships in:
 
 # Featured Projects
 
+## Sensor Logger PCB
+
+- Designed a sensor logger PCB in Kicad. Features include IMU, temperature and humidity sensor, USB-C power input, power regulation, external LCD screen and micro-SD card.
+- Carried out schematic capture and PCB layout
+- Purchased components and currently awaiting their arrival. Updates regarding soldering and testing will follow.
+
+**Repository:** [Sensor Logger PCB Project](https://github.com/hsl25/Sensor-Logger-PCB)
+
+-- 
+
 ## High-Voltage Battery Management System - Southampton University Formula Student Team
 
 - Carried out research and development for the car’s High Voltage Battery Management System, including voltage, current and temperature sensing circuits for battery monitoring and protection.
