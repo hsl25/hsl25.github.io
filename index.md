@@ -20,6 +20,7 @@ Interested in internships in:
 - PCB Design
 
 **Contact:** henocl205@gmail.com
+
 **GitHub:** [hsl25](https://github.com/hsl25)
 
 ---
