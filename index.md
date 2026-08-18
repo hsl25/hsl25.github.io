@@ -39,8 +39,8 @@ Interested in internships in:
 
 ## Sensor Logger PCB
 
-- Designed a sensor logger PCB in Kicad. Features include IMU, temperature and humidity sensor, USB-C power input, power regulation, external LCD screen and micro-SD card.
-- Carried out schematic capture and PCB layout
+- Designed a sensor logger HDI PCB in Kicad. Features include IMU, temperature and humidity sensor, USB-C power input, power regulation, external LCD screen and micro-SD card.
+- Carried out schematic capture and PCB layout.
 - Purchased components and currently awaiting their arrival. Updates regarding soldering and testing will follow.
 
 **Repository:** [Sensor Logger PCB Project](https://github.com/hsl25/Sensor-Logger-PCB)
