@@ -44,7 +44,7 @@ Interested in internships in:
 
 **Repository:** [Sensor Logger PCB Project](https://github.com/hsl25/Sensor-Logger-PCB)
 
--- 
+--- 
 
 ## High-Voltage Battery Management System - Southampton University Formula Student Team
 
