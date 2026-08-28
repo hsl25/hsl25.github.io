@@ -78,6 +78,8 @@ Interested in internships in:
 
 **Outdoor Trials Repository:** [Outdoor Trials](https://github.com/hsl25/outdoor_trials). 
 
+**Photos and Videos Repository:** [Photos and Videos](https://github.com/hsl25/Rover-photos-and-videos).
+
 ---
 
 ## RFID Reader PCB
