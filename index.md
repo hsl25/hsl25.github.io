@@ -27,11 +27,12 @@ Interested in internships in:
 
 # Skills
 
-- Programming and Software: C, C++, SystemVerilog, Python, MATLAB.
-- Embedded Systems: Arduino, Raspberry Pi.
-- Electronics and PCB Design: KiCad, Multisim, LTspice.
+- Programming and Software: C, C++, SystemVerilog, Python, MATLAB, Simulink, GitHub.
+- Embedded Systems: STM32, Arduino, Raspberry Pi Pico, PWM, sensor integration.
+- Electronics and PCB Design: KiCad, Altium, Multisim, LTspice. 
 - Hardware and Engineering Tools: Oscilloscope, multimeter, bench power supply, signal generator, soldering iron.
-- Communication Protocols: I2C, UART, USB. 
+- Communication Protocols: I2C, SPI, UART, USB.
+- Hobbies and Interests: Acoustic guitar, Grade 5 trombone, tennis, football, and landscape, aircraft and astrophotography.
 
 ---
 
